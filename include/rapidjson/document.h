@@ -17,7 +17,7 @@
 
 /*! \file document.h */
 
-#include "readerwrapper.h"
+#include "reader.h"
 #include "internal/meta.h"
 #include "internal/strfunc.h"
 #include "memorystream.h"
